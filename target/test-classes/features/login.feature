@@ -1,4 +1,4 @@
-@login #feature level tag
+@regression
 Feature: Login Functionality
 
 

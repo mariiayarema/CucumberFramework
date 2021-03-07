@@ -1,3 +1,4 @@
+@smoke
 Feature: Dashboard Tab Functionality
 
 
